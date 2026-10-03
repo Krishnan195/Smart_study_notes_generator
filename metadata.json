@@ -1,0 +1,7 @@
+{
+  "name": "Smart Study Notes Generator",
+  "description": "AI-powered study notes generator with paragraph summarization, key points extraction, reduction metrics, and mini-project test records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
